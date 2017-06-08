@@ -1,0 +1,7 @@
+platform :ios,'7.0'
+
+target :EChartDemo do
+    
+    
+    pod "OAuth.io"
+end

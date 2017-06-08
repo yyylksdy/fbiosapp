@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8F710B8BCED3EE5699A7AA38ECFDF1FDE6472D81",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8F710B8BCED3EE5699A7AA38ECFDF1FDE6472D81" : 9223372036854775807,
+    "B4E0F0F181FB07144F2DBB64F78C2B3367E3BE43" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "98F5FA19-27F4-433B-894F-7848C2673372",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8F710B8BCED3EE5699A7AA38ECFDF1FDE6472D81" : "EChart\/",
+    "B4E0F0F181FB07144F2DBB64F78C2B3367E3BE43" : "FitBitConnectionOAuthIOiOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "EChartDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "EChartDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zhuhuihuihui\/EChart.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8F710B8BCED3EE5699A7AA38ECFDF1FDE6472D81"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pickaxemobile\/FitBitConnectionOAuthIOiOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B4E0F0F181FB07144F2DBB64F78C2B3367E3BE43"
+    }
+  ]
+}
